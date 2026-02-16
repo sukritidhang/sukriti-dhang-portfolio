@@ -424,7 +424,7 @@ p {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
 
-
+/* ---------- publication ---------- */
 
 /* .publish-grid {
      display: grid;
@@ -447,6 +447,34 @@ p {
 }
 
 .publish-card h3 {
+    padding: 15px;
+    color: #0f172a;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+/* ---------- teaching ---------- */
+
+/* .teaching-grid {
+     display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(50px, 1fr)); 
+    gap: 30px;
+} */
+
+.teaching-card {
+    background: var(--card);
+    border-radius: 10px;
+    overflow: hidden;
+    cursor: pointer;
+    gap: 30px;
+}
+
+.teaching-card img {
+    width: 100%;
+    height: 150px;
+    object-fit: contain;
+}
+
+.teaching-card h3 {
     padding: 15px;
     color: #0f172a;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
