@@ -50,7 +50,8 @@ h2 {
 
 /* ---------- Navbar ---------- */
 header {
-    background: #f9fbff;
+    background: aliceblue;
+   /* background: #f9fbff #e7e8ea;*/
     color: #1a1a1a;
     position: sticky;
     top: 0;
