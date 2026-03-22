@@ -1,4 +1,4 @@
-# sukritid-portfolio
+# sukriti-dhang-portfolio
 
 Hi, I’m Sukriti Dhang 
 
