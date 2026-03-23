@@ -1,4 +1,4 @@
-# sukriti-dhang-portfolio
+# Sukriti Dhang Portfolio
 
 
 Welcome to my personal portfolio repository!  
