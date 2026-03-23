@@ -15,4 +15,4 @@ This portfolio showcases my academic journey, technical skills, and research wor
  
 
 👉 Explore more on my portfolio website: 
-🔗 https://sukritidhang.github.io/sukriti-dhang-portfolio/
+🔗 https://sukritidhang.github.io/
