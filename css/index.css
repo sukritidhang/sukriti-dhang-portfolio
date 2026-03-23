@@ -638,8 +638,8 @@ footer {
 }
 
 .tab button {
-  background-color: #f1f1f1;
-  color: #858686;
+  background-color: aliceblue;
+  color: #013368;
   border: none;
   outline: none;
   cursor: pointer;
@@ -650,13 +650,13 @@ footer {
 }
 
 .tab button:hover {
-   color: #858686;
+   color: #013368;
     background-color: white;/* #ddd;*/
-    border: 2px solid #858686;
+    border: 2px solid #013368;
 }
 
 .tab button.active {
-  background-color: #858686;
+  background-color: #225285;
   color: #fff;
 }
 
