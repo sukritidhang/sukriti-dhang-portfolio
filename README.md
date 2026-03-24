@@ -3,7 +3,7 @@
 
 Welcome to my personal portfolio repository!  
 
-Hi, I’m Sukriti Dhang  
+Hi, there 👋
 
 This portfolio showcases my academic journey, technical skills, and research works, reflecting my growth and interests in technology.
 
